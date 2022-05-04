@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MLHalmo
 - 👀 I’m interested in ... Cartography/ Geographic Information System (GIS)/ Spatial Analysis/ Remote Sensing (LiDAR)
 - 🌱 I’m currently learning ... Geospatial Intelligence Applications
-- 💞️ I’m looking to collaborate on ... Projects to which I can contribute my geospatial skills and knowledge
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... mlh6323@psu.edu
 
 <!---
